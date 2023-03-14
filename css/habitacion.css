@@ -1,0 +1,58 @@
+
+html{
+	padding: 15px;
+}
+.medio,.habitacion{
+	width: 90%;
+	margin-bottom: 10px;
+	padding:10px;
+}
+.habitacion img{
+	width: 80%;
+	margin: 20px;
+	border-radius: 10px;
+	border:white 2px solid;
+	box-shadow: black 0 0 1px 4px;
+}
+.medio{
+background-color: black;
+padding: 30px;
+border: white 2px solid;
+border-radius: 10px;
+
+}
+.medio img{
+	border: white 3px solid;
+	border-radius: 10px;
+	box-shadow: white 0 0 1px 3px;
+}
+.habi{
+	padding-top: 20px;
+	background-color:#D81B60;
+	border-radius: 10px;
+}
+.habitacion{
+	color: white;
+	font-size: 20px;
+	background-color: black;
+	border: white 2px solid;
+	border-radius: 10px;
+}
+.habitacion span,.aside,.aside a{
+    background-color: green;
+    border-radius: 10px;
+    color: white;
+    padding:10px;
+}
+.habitacion .aside a:hover{
+	background-color: blue;
+	text-decoration: none;
+	color: white;
+}
+.habitacion .aside:hover{
+	background-color: blue;
+}
+.habitacion .aside{
+	border: white 2px solid;
+	width: 18%;
+}

@@ -1,0 +1,8 @@
+
+.galeria img{
+	width:30%;
+	border-radius: 10px;
+	border:black 2px solid;
+	height: 300px; 
+	margin: 10px;
+}
